@@ -54,3 +54,5 @@ Data Cleaning & Modeling
 
 
 Screenshot of Dashboard:
+
+Example:[Dashboard Preview] https://github.com/Sarah18C/Insurance-Risk-Claim-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
