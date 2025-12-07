@@ -27,16 +27,30 @@ The goal of this project is to
   
   5)Female Policyholders: 18.8K 
 
-🎯 Business Use Case
 
-This dashboard helps insurance teams to:
+🎯 Business Use Case:
+This dashboard helps insurance teams to
 
-Identify high-risk customers
+   Identify high-risk customers
 
-Optimize policy pricing
+   Optimize policy pricing
 
-Reduce fraud losses
+   Reduce fraud losses
 
-Improve claim settlement strategy
+   Improve claim settlement strategy
 
-Enhance profitability
+   Enhance profitability
+   
+
+🛠 Tools & Technologies Used
+
+Microsoft Power BI – Data Visualization
+
+DAX – Measures & Calculations
+
+Excel / CSV – Dataset
+
+Data Cleaning & Modeling
+
+
+Screenshot of Dashboard:
