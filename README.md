@@ -1,4 +1,4 @@
-# Insurance-Risk-Claim-Analysis-Dashboard
+# Insurance-Risk-Claim-Analysis-Dashboard(PowerBI)
 📊 Insurance Risk & Claims Analysis Dashboard
 
 An interactive Power BI dashboard designed to analyze insurance risks, claims, and customer behavior using data-driven insights. This project helps insurance companies understand claim trends, risk exposure, and customer demographics for better decision-making.
